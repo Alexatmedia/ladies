@@ -32,11 +32,11 @@ function Index() {
       </h2>
       <p>
         <a
-          href="https://github.com/vercel/vercel/tree/main/examples/gatsby"
+          href="https://www.ladymum.net/"
           target="_blank"
           rel="noreferrer noopener"
         >
-          This project
+          ladymum
         </a>{' '}
         is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
         directories, <code>/src</code> for static content and <code>/api</code>{' '}
