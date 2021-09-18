@@ -27,6 +27,7 @@ function Index() {
         >
           Vercel
         </a>
+  <p>you can visit <a href="https://www.ladymum.net/">ladymum</a> for more info about this project</p>
         !
       </h2>
       <p>
